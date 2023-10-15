@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "im_mdogan"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -104,27 +104,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Mustafa Doğan"
+  avatar           : "/assets/images/md.jpg"
+  bio              : >- 
+    MSc student at Hacettepe University. Currently working for ASELSAN, one of the top defense companies in Turkey, as a embedded software developer.
+  location         : "Ankara, Turkey"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dogankaas@gmail.com"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/files/Resume_Abroad.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/im_mdogan/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mustafaadogan/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,13 +138,13 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      URL: "https://github.com/mustafaadogan"
+      URL: "https://github.com/mustafaadogan/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/renatogolia/"
+      url: "https://www.linkedin.com/in/dogan-mustafa/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      URL: "https://twitter.com/im_mdogan"
+      URL: "https://twitter.com/im_mdogan/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
