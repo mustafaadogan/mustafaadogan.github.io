@@ -297,3 +297,17 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  education:
+    output: true
+    permalink: /education/:path/
+  work_experience:
+    output: true
+    permalink: /work-experience/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
