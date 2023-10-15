@@ -304,7 +304,7 @@ collections:
     permalink: /_education/2023-education-degree/
   work_experience:
     output: true
-    permalink: /_work-experience/2023-work-experience/
+    permalink: /_work_experience/2023-work-experience/
   publications:
     output: true
     permalink: /_publications/:path/
