@@ -1,3 +1,37 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/education">Education</a></li>
+        <li><a href="/work-experience">Work Experience</a></li>
+        <li><a href="/publications">Publications</a></li>
+        <li><a href="/projects">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <!-- Your footer content goes here -->
+  </footer>
+</body>
+</html>
 <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
