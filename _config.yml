@@ -138,13 +138,13 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      URL: "https://github.com/mustafaadogan/"
+      url: "https://github.com/mustafaadogan/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/dogan-mustafa/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      URL: "https://twitter.com/im_mdogan/"
+      url: "https://twitter.com/im_mdogan/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
