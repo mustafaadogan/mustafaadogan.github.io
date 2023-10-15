@@ -301,13 +301,13 @@ defaults:
 collections:
   education:
     output: true
-    permalink: ":/education/:path/"
+    permalink: ":/education/:2023-education-degree/"
   work_experience:
     output: true
-    permalink: :/work-experience/:path/
+    permalink: :/work-experience/:2023-work-experience/
   publications:
     output: true
-    permalink: "/publications/:path/"
+    permalink: "/publications/:2023-publications/"
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:2023-project/
