@@ -7,3 +7,21 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+#textbox {display:flex; flex-flow:row wrap; margin: 0;}
+
+.alignleft {
+  width: 33.33333%;
+  text-align: left;
+  margin: 0px;
+}
+.aligncenter {
+  width: 33.33333%;
+  text-align: center;
+  margin: 0px;
+}
+.alignright {
+  width: 33.33333%;
+  text-align: right;
+  margin: 0px;
+}

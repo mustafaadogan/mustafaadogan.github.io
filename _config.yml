@@ -107,7 +107,7 @@ author:
   name             : "Mustafa Doğan"
   avatar           : "/assets/images/md.jpg"
   bio              : >- 
-    MSc student at Hacettepe University. Currently working for ASELSAN, one of the top defense companies in Turkey, as a embedded software developer.
+    MSc student at Hacettepe University. Currently working for ASELSAN, one of the top defense companies in Turkey, as an embedded software developer.
   location         : "Ankara, Turkey"
   email            :
   links:
@@ -299,15 +299,5 @@ defaults:
       related: true
 
 collections:
-  education:
-    output: true
-    permalink: /_education/2023-education-degree/
-  work_experience:
-    output: true
-    permalink: /_work_experience/2023-work-experience/
-  publications:
-    output: true
-    permalink: /_publications/:path/
   projects:
     output: true
-    permalink: /_projects/:path/
