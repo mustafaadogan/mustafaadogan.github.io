@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Software Engineer
-Versatile and results-oriented professional with a strong background in computer science, specializing in AI and deep learning applications for unmanned systems, particularly UAVs. Currently, a Software Engineer at ASELSAN, contributing to the development and maintenance of advanced fire control systems for national defense. Experienced researcher at TUBİTAK SAGE, adept at building complex applications for missile data visualization. Striving for a Ph.D. to further contribute to the field of AI and deep learning applications, with a keen interest in mission execution, precision maneuvers, and the creation of intelligent digital assistants for unmanned systems.
+A versatile professional rooted in computer science, specializing in AI and deep learning for unmanned systems, currently contributing to advanced fire control systems at ASELSAN and experienced in intricate missile data visualization research at TUBITAK SAGE. Passionate about advancing AI applications, particularly in mission execution, precision maneuvers, and crafting intelligent digital assistants tailored for unmanned systems. Committed to pursuing a Ph.D. to further enhance contributions in AI and deep learning, aiming to innovate and expand possibilities within the field.
 
 ## Education
 
@@ -21,24 +21,26 @@ Versatile and results-oriented professional with a strong background in computer
 
 <ul style="margin: 0;">
   <li style="margin: 0;"><small style="margin: 0;">CGPA: 3.64/4.00</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Thesis Title: Evaluating Zero-Shot Learning Capabilities of Video-Language Pretraining Models </small></li>
-  <li><small style="margin: 0;">Coursework: <em>Deep Learning, Neural Networks, Pattern Classification, Machine Learning, Image Processing</em></small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Graduate Thesis: Evaluating Zero-Shot Learning Capabilities of Video-Language Pretraining Models </small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Coursework: <em>Deep Learning, Computer Vision, Image Processing</em></small></li>
 </ul>
 
 
 **B.S. in Computer Engineering**  
 
 <div id="textbox" style="overflow: auto;">
-   <p class="alignleft">Konya Gıda & Tarım University</p>
+   <p class="alignleft">Konya Food & Agriculture University</p>
    <p class="aligncenter">Konya, Turkey</p>
    <p class="alignright">Sep 2016 – June 2021</p>
 </div>
 
-<ul style="margin: 0;">
+<ul style="margin: 0; ">
   <li style="margin: 0;"><small style="margin: 0; left: -10px;">CGPA: 3.72/4.00</small></li>
-  <li><small style="margin: 0; ">Coursework: <em>Intro to Machine Learning, Intro to Data Science, Artificial Intelligence</em></small></li>
+  <li style="margin: 0; "><small>The 2<sup>nd</sup> highest rank in the faculty, High Honor</small></li>
+  <li style="margin: 0; "><small>Recipient of merit-based full scholarship by Dean’s Office</small></li>
+  <li style="margin: 0; "><small>Graduation Project: Autonomously Navigated Agent Using Reinforcement Learning</small></li>
+  <li style="margin: 0; "><small >Coursework: <em>Intro to Machine Learning, Intro to Data Science, Artificial Intelligence</em></small></li>
 </ul>
-
 
 ## Employment 
 
@@ -49,11 +51,13 @@ Versatile and results-oriented professional with a strong background in computer
 </div>
 
 <ul style="margin: 0;">
-  <li style="margin: 0;"><small style="margin: 0;">Developed and maintained event-driven fire control systems running on VxWorks RTOS and CentOS in various national defense systems.</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Handled the communication between environment units using UDP, TCP, RS422, Can Bus, DDS communication protocols.</small></li>
-  <li><small style="margin: 0;">Used C++, IBM Rational Rhapsody, Visual Studio, and Eclipse for software development and testing.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Spearheaded the development and maintenance of event-driven fire control systems deployed onVxWorks
+RTOS and CentOS for critical national defense systems.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Orchestrated communication between units using UDP, TCP, RS422, Can Bus, and DDS protocols.</small></li>
+  <li><small style="margin: 0;">Applied C++, IBM Rational Rhapsody, Visual Studio, and Eclipse for development and testing.</small></li>
 </ul>
  
+<br>
 
 <div id="textbox" style="overflow: auto;">
    <p class="alignleft">Researcher</p>
@@ -62,9 +66,11 @@ Versatile and results-oriented professional with a strong background in computer
 </div>
 
 <ul style="margin: 0;">
-  <li style="margin: 0;"><small style="margin: 0; left: -10px;">Built a C# multi-threading form application that visualizes the intended missile data on a graph using N-tier Architecture, Reflection and PlotLab libraries provided by Microsoft and MitovLab respectively.</small></li>
-  <li><small style="margin: 0; ">Developed an indexer project which takes a root path, and intended file types as inputs, and then show all the files that are in the requested format, and under that root path, in an HTML document using a tree view.</small></li>
+  <li style="margin: 0;"><small style="margin: 0; left: -10px;">Engineered a C# multi-threading form application leveraging N-tier Architecture, Reflection, and PlotLab libraries, enabling intuitive visualization of missile data.</small></li>
+  <li><small style="margin: 0; ">Developed an indexer project in C# to categorize and present specific file types from designated root paths in HTML format using a tree view.</small></li>
 </ul>
+ 
+<br>
 
 <div id="textbox" style="overflow: auto;">
    <p class="alignleft">Machine Learning Engineer Intern</p>
@@ -73,9 +79,37 @@ Versatile and results-oriented professional with a strong background in computer
 </div>
 
 <ul style="margin: 0;">
-  <li style="margin: 0;"><small style="margin: 0;">Built a Knowledge Graph that represents all authors and the ones who cite these authors according to academic papers which are stored in a MongoDB database by the user via our script, written in Python.</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Developed a machine learning model that detects the performed and future tasks in an academic paper and clusters the papers using natural language processing.</small></li>
-  <li><small style="margin: 0;">Worked on a script that writes short reports in terms of what have done about a user-defined topic utilizing the previous machine learning model and GPT-2.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Pioneered the creation of a Knowledge Graph cataloging authors and their citations from academic papers stored in a MongoDB database, employing Python scripting.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Engineered a sophisticated machine learning model utilizing natural language processing to identify tasks within academic papers, facilitating comprehensive paper clustering.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Devised a GPT-2-powered script for generating concise reports on user-defined topics.</small></li>
+</ul>
+ 
+<br>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Embedded Software Eng. Intern</p>
+   <p class="aligncenter">Air Electronic Warfare Systems Engineering Trading Inc., Turkey</p>
+   <p class="alignright">June 2019 - Sep 2019</p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Crafted a Memory Map conforming to MIL-STD-1553 protocol using C and VHDL for the Electronic Warfare
+Suite Controller integrated into F-16 aircraft.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Implemented a finite state machine employing MYD-C7Z015 Development Board and LTC-2601 standards for
+digital-to-analog signal conversion.</small></li>
+</ul>
+ 
+<br>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Laboratory Assistant Intern</p>
+   <p class="aligncenter">Michigan State University, USA</p>
+   <p class="alignright">August 2018 - Sep 2018</p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Conducted analysis, utilizing Python libraries (matplotlib, Seaborn), to explore the relationship between sleeping patterns and eating habits.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Applied Bayes Theorem and Microsoft Excel Tools to evaluate test results, offering valuable insights to collaborating companies.</small></li>
 </ul>
 
 ## Publications
@@ -83,15 +117,27 @@ Versatile and results-oriented professional with a strong background in computer
 <ol>
   <li>
     <p>
-      <strong>M. Doğan</strong>, Ö. Metin, E. Tek, S. Yumuşak and K. Öztoprak, 
-      <em>"Speculator and Influencer Evaluation in Stock Market by Using Social Media"</em>, 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 4559-4566, doi: 10.1109/BigData50022.2020.9378170.
+      Ilker Kesen, Andrea Pedrotti, <strong>Mustafa Dogan</strong>, Michele Cafagna, Emre Can Acikgoz, Letitia Parcalabescu,
+Iacer Calixto, Anette Frank, Albert Gatt, Aykut Erdem, and Erkut Erdem. Vilma: A zero-shot benchmark
+for linguistic and temporal grounding in video-language models, 2023.
     </p>
   </li>
   
   <li>
     <p>
+      <strong>M. Doğan</strong>, Ö. Metin, E. Tek, S. Yumuşak and K. Öztoprak, 
+      <em>"Speculator and Influencer Evaluation in Stock Market by Using Social Media"</em>, 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 4559-4566, doi: 10.1109/BigData50022.2020.9378170.
+    </p>
+  </li>
+</ol>
+
+## On-Going Publications
+
+<ol>
+  <li>
+    <p>
       <strong>M. Dogan</strong>, K. Oztoprak, and M. R. Tolun,
-      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science. (In Major Revision Process)
+      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science.
     </p>
   </li>
 </ol>

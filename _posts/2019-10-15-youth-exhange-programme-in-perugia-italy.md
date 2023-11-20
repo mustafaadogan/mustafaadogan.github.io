@@ -8,23 +8,23 @@ tags:
 last_modified_at: 2019-10-15T08:05:34-05:00
 ---
 <div style="text-align: justify;">
-In the vibrant tapestry of the "Interstellar Inclusion" youth Exchange Project, I played an active role, immersing myself in its profound objectives aimed at cultivating tools and best practices to foster a nuanced understanding of differences while combating racism and xenophobia through the immersive lens of peer-to-peer experiences.
+I actively participated in the "Interstellar Inclusion" youth Exchange Project, dedicating myself to its core mission of promoting understanding, combating racism, and fostering cross-cultural awareness through immersive peer-to-peer experiences.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-Stepping onto the theatrical stage with a diverse ensemble of six individuals hailing from different corners of the world, I orchestrated a compelling theatre show. This performance artfully directed attention toward the poignant issue of navigating the school system in an alternate reality, weaving a narrative that transcended borders.
+As part of a diverse team, I orchestrated a compelling theater production addressing the challenges of navigating school systems in alternate realities. This theatrical endeavor aimed to transcend cultural boundaries and shed light on pertinent societal issues.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-In the realm of cinematic expression, I undertook the roles of actor and editor in a short film exploring the theme of Freedom. This cinematic endeavor not only allowed for creative exploration but also garnered accolades, securing the esteemed 'Best Movie' award among a selection of five outstanding films—an acknowledgment of our collective performance.
+In a short film exploring the theme of Freedom, I took on the roles of both actor and editor. Our film received recognition with the prestigious 'Best Movie' award among a select group of outstanding films, acknowledging our collective efforts in cinematic storytelling.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-With a sense of purpose, I delivered a presentation centered on migration in Turkey to an audience of over 30 young individuals hailing from six different countries and diverse backgrounds. This engaging discourse served as a platform for fostering cross-cultural understanding and addressing global issues through the art of storytelling.
+I delivered a purpose-driven presentation on migration in Turkey to an audience comprising over 30 young individuals from diverse backgrounds and six different countries. This presentation served as a platform for fostering cross-cultural understanding and addressing global issues through impactful storytelling.
 </div>

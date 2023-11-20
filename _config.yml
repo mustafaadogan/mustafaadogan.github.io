@@ -116,7 +116,7 @@ author:
       url: "mailto:dogankaas@gmail.com"
     - label: "Resume"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/Resume_Abroad.pdf"
+      url: "/assets/files/Resume.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

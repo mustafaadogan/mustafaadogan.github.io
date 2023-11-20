@@ -5,16 +5,21 @@ layout: tag
 author_profile: true
 ---
 <div style="text-align: justify;">
-I am a dynamic and results-driven professional with a background in computer science and a passion for pioneering advancements in artificial intelligence (AI) and deep learning applications. Currently serving as a Software Engineer at ASELSAN, I specialize in the development and maintenance of cutting-edge fire control systems for national defense. My journey in the field began with a Bachelor's in Computer Engineering from Konya Gıda & Tarım University, where I graduated with honors, securing the 2nd highest rank in the faculty.
+I am a proactive and accomplished professional with a robust foundation in computer science, driven by a fervor for spearheading innovations in artificial intelligence (AI) and deep learning applications. Currently employed as a Software Engineer at ASELSAN, my primary focus revolves around the progressive development and upkeep of cutting-edge fire control systems crucial for national defense.
+
+<br>
+<br>
+
+
+My journey in this dynamic field commenced with a Bachelor's degree in Computer Engineering from Konya Gıda & Tarım University, where I graduated with distinction, securing the 2nd highest rank in the faculty.
 
 
 <br>
 <br>
 
-In pursuit of excellence, I am currently pursuing a Master's in Computer Science at Hacettepe University, with a focus on evaluating zero-shot learning capabilities of video-language pretraining models. This academic pursuit reflects my commitment to staying at the forefront of technological advancements.
-
+In my pursuit of academic excellence, I am actively engaged in advancing my knowledge through a Master's program in Computer Science at Hacettepe University. Here, my research primarily centers on assessing the zero-shot learning capabilities inherent in video-language pretraining models. This academic endeavor underscores my unwavering dedication to remaining at the forefront of technological advancements in AI.
 
 <br>
 <br>
-Driven by a vision of advancing AI applications, I am enthusiastic about mission execution, precision maneuvers, and developing digital assistants for unmanned systems. My ultimate goal is to pursue a Ph.D. to make meaningful contributions to the field, leveraging my skills and experiences to push the boundaries of what's possible in AI and deep learning.
+Motivated by a vision to propel AI applications to greater heights, I am deeply passionate about mission execution strategies, precision maneuvers, and the creation of digital assistants tailored for unmanned systems. My ultimate aim is to embark on a Ph.D. journey, driven by the desire to contribute significantly to the field. I aspire to leverage my amassed skills and diverse experiences to expand the horizons of what can be achieved in AI and deep learning.
 </div>
