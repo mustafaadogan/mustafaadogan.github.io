@@ -22,6 +22,10 @@ A versatile professional rooted in computer science, specializing in AI and deep
 <ul style="margin: 0;">
   <li style="margin: 0;"><small style="margin: 0;">CGPA: 3.64/4.00</small></li>
   <li style="margin: 0;"><small style="margin: 0;">Graduate Thesis: Evaluating Zero-Shot Learning Capabilities of Video-Language Pretraining Models </small></li>
+    <ul style="margin: 0;">
+    <li style="margin: 0;"><small style="margin: 0;">Contributed ViLMA benchmark to evaluate VidLMs’ capabilities in processing moving images.</small></li>
+    <li style="margin: 0;"><small style="margin: 0;">Adapted and tested multiple VidLMs, revealing performance similarities to static image-based models.</small></li>
+    </ul>
   <li style="margin: 0;"><small style="margin: 0;">Coursework: <em>Deep Learning, Computer Vision, Image Processing</em></small></li>
 </ul>
 
@@ -39,6 +43,9 @@ A versatile professional rooted in computer science, specializing in AI and deep
   <li style="margin: 0; "><small>The 2<sup>nd</sup> highest rank in the faculty, High Honor</small></li>
   <li style="margin: 0; "><small>Recipient of merit-based full scholarship by Dean’s Office</small></li>
   <li style="margin: 0; "><small>Graduation Project: Autonomously Navigated Agent Using Reinforcement Learning</small></li>
+    <ul style="margin: 0;">
+    <li style="margin: 0;"><small style="margin: 0;">Developed Deep Q-Learning ML model in CARLA simulator for autonomous point-to-point navigation.</small></li>
+    </ul>
   <li style="margin: 0; "><small >Coursework: <em>Intro to Machine Learning, Intro to Data Science, Artificial Intelligence</em></small></li>
 </ul>
 
@@ -51,10 +58,9 @@ A versatile professional rooted in computer science, specializing in AI and deep
 </div>
 
 <ul style="margin: 0;">
-  <li style="margin: 0;"><small style="margin: 0;">Spearheaded the development and maintenance of event-driven fire control systems deployed onVxWorks
-RTOS and CentOS for critical national defense systems.</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Orchestrated communication between units using UDP, TCP, RS422, Can Bus, and DDS protocols.</small></li>
-  <li><small style="margin: 0;">Applied C++, IBM Rational Rhapsody, Visual Studio, and Eclipse for development and testing.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Spearheaded the development and maintenance of event-driven fire control systems deployed on VxWorks and CentOS for critical national defense systems.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Orchestrated communication between units using TCP/IP, RS422, Can Bus, and DDS protocols.</small></li>
+  <li><small style="margin: 0;">Applied C++, Java, Visual Studio, and Eclipse for development and testing.</small></li>
 </ul>
  
 <br>
@@ -79,9 +85,8 @@ RTOS and CentOS for critical national defense systems.</small></li>
 </div>
 
 <ul style="margin: 0;">
-  <li style="margin: 0;"><small style="margin: 0;">Pioneered the creation of a Knowledge Graph cataloging authors and their citations from academic papers stored in a MongoDB database, employing Python scripting.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Pioneered the creation of a Knowledge Graph cataloging authors and their citations from academic papers stored in a MongoDB database, devising a GPT-2-powered Python scripting.</small></li>
   <li style="margin: 0;"><small style="margin: 0;">Engineered a sophisticated machine learning model utilizing natural language processing to identify tasks within academic papers, facilitating comprehensive paper clustering.</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Devised a GPT-2-powered script for generating concise reports on user-defined topics.</small></li>
 </ul>
  
 <br>
@@ -109,7 +114,7 @@ digital-to-analog signal conversion.</small></li>
 
 <ul style="margin: 0;">
   <li style="margin: 0;"><small style="margin: 0;">Conducted analysis, utilizing Python libraries (matplotlib, Seaborn), to explore the relationship between sleeping patterns and eating habits.</small></li>
-  <li style="margin: 0;"><small style="margin: 0;">Applied Bayes Theorem and Microsoft Excel Tools to evaluate test results, offering valuable insights to collaborating companies.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Applied Bayes Theorem and MS Office to evaluate test results, offering insights to collaborating companies.</small></li>
 </ul>
 
 ## Publications
@@ -141,3 +146,94 @@ for linguistic and temporal grounding in video-language models, 2023.
     </p>
   </li>
 </ol>
+
+## Projects 
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Morse Decoder</p>
+   <p class="aligncenter"></p>
+   <p class="alignright"></p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Conceptualized a VHDL project within the ISE Development environment to convert user-input signals into Morse code.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Implemented functionality to decode signals and display the resulting characters on the LCD Screen of the FPGA board while enhancing capabilities include deleting the last decoded character and transitioning to the next line on the screen.</small></li>
+</ul>
+ 
+<br>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Speculator Finder</p>
+   <p class="aligncenter"></p>
+   <p class="alignright"></p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Identified NASDAQ market speculators and influencers by analyzing nearly 3.4 million distinct user tweets on company-related topics.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Utilized Selenium library to gather tweet data, user details, and engagement metrics, storing them in an SQLite Database.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Employed tfidf vectorizer and machine learning algorithms, predominantly SVM, for tweet vectorization and clustering.</small></li>
+</ul>
+
+<br>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">16-bit RISC based Processor</p>
+   <p class="aligncenter"></p>
+   <p class="alignright"></p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Engineered a custom instruction format and data-path based on the Harvard architecture, encompassing 18 essential instructions for memory and register operations.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Constructed a user-friendly desktop simulator using Python and PyQt, enabling users to execute programs utilizing assembly instructions while visualizing real-time memory and register values.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Established a Verilog project within the ISE development environment to verify the design and functionality.</small></li>
+</ul>
+
+## Volunteering Activities 
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Erasmus Youth Exchange Participant</p>
+   <p class="aligncenter">Perugia, Italy</p>
+   <p class="alignright">October 2019</p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Engaged actively in the "Interstellar Inclusion" Youth Exchange project, fostering understanding and combatting racism and xenophobia through peer-to-peer experiences.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Collaborated in a theater performance involving a diverse group from various countries, addressing challenges related to accessing education in different societal contexts.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Created and edited an award-winning short film on the theme of Freedom, receiving the ’Best Movie’ accolade among five nominated films.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Delivered a presentation on migration in Turkey to 30+ youngsters from diverse backgrounds.</small></li>
+</ul>
+
+<br>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft">Erasmus Youth Exchange Participant</p>
+   <p class="aligncenter">Tallinn, Estonia</p>
+   <p class="alignright">May 2018</p>
+</div>
+
+<ul style="margin: 0;">
+  <li style="margin: 0;"><small style="margin: 0;">Participated in the "Sail Entrepreneurship" Youth Exchange project, collaborating with participants from various countries.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Contributed to ideation and development of business concepts focusing on social entrepreneurship using the Business Canvas Model.</small></li>
+  <li style="margin: 0;"><small style="margin: 0;">Overcame cultural and language barriers by fostering open communication and encouragement among a
+group of 35+ participants.</small></li>
+</ul>
+
+## Additional Experience 
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft"><small style="margin: 0;">KFAU Robotics Club, Member of Board</small></p>
+   <p class="aligncenter"></p>
+   <p class="alignright"><small style="margin: 0;">January 2019 - September 2021</small></p>
+</div>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft"><small style="margin: 0;">IEEE KFAU Student Branch, Founding President</small></p>
+   <p class="aligncenter"></p>
+   <p class="alignright"><small style="margin: 0;">January 2018 - October 2019</small></p>
+</div>
+
+<div id="textbox" style="overflow: auto;">
+   <p class="alignleft"><small style="margin: 0;">International Youth Camp, Participant</small></p>
+   <p class="aligncenter"></p>
+   <p class="alignright"><small style="margin: 0;">August 2017</small></p>
+</div> 
