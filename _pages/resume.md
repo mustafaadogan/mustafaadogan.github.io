@@ -124,14 +124,14 @@ digital-to-analog signal conversion.</small></li>
     <p>
       Ilker Kesen, Andrea Pedrotti, <strong>Mustafa Dogan</strong>, Michele Cafagna, Emre Can Acikgoz, Letitia Parcalabescu,
 Iacer Calixto, Anette Frank, Albert Gatt, Aykut Erdem, and Erkut Erdem. Vilma: A zero-shot benchmark
-for linguistic and temporal grounding in video-language models, 2023.
+for linguistic and temporal grounding in video-language models, 2023. <a href="https://openreview.net/forum?id=liuqDwmbQJ">[LINK]</a>
     </p>
   </li>
   
   <li>
     <p>
       <strong>M. Doğan</strong>, Ö. Metin, E. Tek, S. Yumuşak and K. Öztoprak, 
-      <em>"Speculator and Influencer Evaluation in Stock Market by Using Social Media"</em>, 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 4559-4566, doi: 10.1109/BigData50022.2020.9378170.
+      <em>"Speculator and Influencer Evaluation in Stock Market by Using Social Media"</em>, 2020 IEEE International Conference on Big Data (Big Data), Atlanta, GA, USA, 2020, pp. 4559-4566, doi: 10.1109/BigData50022.2020.9378170. <a href="https://ieeexplore.ieee.org/document/9378170">[LINK]</a>
     </p>
   </li>
 </ol>
@@ -142,7 +142,7 @@ for linguistic and temporal grounding in video-language models, 2023.
   <li>
     <p>
       <strong>M. Dogan</strong>, K. Oztoprak, and M. R. Tolun,
-      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science.
+      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science. <a href="/assets/files/Teaching_Computer_Architecture_by_Designing_and_Simulating_Processors.pdf">[LINK]</a>
     </p>
   </li>
 </ol>
