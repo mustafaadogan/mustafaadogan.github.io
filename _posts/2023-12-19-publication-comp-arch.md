@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2023-12-19T08:05:34-05:00
 ---
 <div style="text-align: justify;">
-I'm thrilled to announce some incredible news - our paper has been accepted for publication in [PeerJ Computer Science Journal](https://peerj.com).! It's been an incredible journey co-authoring this with the esteemed Professors Kasım Öztoprak and Mehmet Reşit Tolun. This moment signifies an important milestone as it marks my very first journal publication. The article titled "Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes" delves into innovative teaching methods for undergraduate Computer Architecture (Comp-Arch) courses. This journey has been immensely rewarding, and I'm excited to share our insights with the academic community. 
+I'm thrilled to announce some incredible news - our paper has been accepted for publication in <a href="https://peerj.com">PeerJ Computer Science Journal</a>! It's been an incredible journey co-authoring this with the esteemed Professors Kasım Öztoprak and Mehmet Reşit Tolun. This moment signifies an important milestone as it marks my very first journal publication. The article titled "Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes" delves into innovative teaching methods for undergraduate Computer Architecture (Comp-Arch) courses. This journey has been immensely rewarding, and I'm excited to share our insights with the academic community. 
 </div>
 
 <br>
