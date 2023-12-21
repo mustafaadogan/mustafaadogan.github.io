@@ -142,7 +142,7 @@ for linguistic and temporal grounding in video-language models, 2023. <a href="h
   <li>
     <p>
       <strong>M. Dogan</strong>, K. Oztoprak, and M. R. Tolun,
-      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science. <a href="/assets/files/Teaching_Computer_Architecture_by_Designing_and_Simulating_Processors.pdf">[LINK]</a>
+      <em>"Teaching Computer Architecture by Designing and Simulating Processors from Their Bits and Bytes"</em>, PeerJ Computer Science. (Accepted and will be published soon!) <a href="/assets/files/Teaching_Computer_Architecture_by_Designing_and_Simulating_Processors.pdf">[LINK]</a>
     </p>
   </li>
 </ol>
