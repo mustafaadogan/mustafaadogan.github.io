@@ -122,6 +122,12 @@ digital-to-analog signal conversion.</small></li>
 <ol>
   <li>
     <p>
+      <strong>Doğan M</strong>, Öztoprak K, Tolun MR. 2024. Teaching computer architecture by designing and simulating processors from their bits and bytes. PeerJ Computer Science 10:e1818 https://doi.org/10.7717/peerj-cs.1818 <a href="https://doi.org/10.7717/peerj-cs.1818">[LINK]</a>
+    </p>
+  </li>
+  
+  <li>
+    <p>
       Ilker Kesen, Andrea Pedrotti, <strong>Mustafa Dogan</strong>, Michele Cafagna, Emre Can Acikgoz, Letitia Parcalabescu,
 Iacer Calixto, Anette Frank, Albert Gatt, Aykut Erdem, and Erkut Erdem. Vilma: A zero-shot benchmark
 for linguistic and temporal grounding in video-language models, 2023. <a href="https://openreview.net/forum?id=liuqDwmbQJ">[LINK]</a>
