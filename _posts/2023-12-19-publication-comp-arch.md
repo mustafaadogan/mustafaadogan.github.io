@@ -32,4 +32,4 @@ Moreover, this approach holds promise for related courses like Microprocessor De
 
 <br>
 
-You can access the paper <a href="/assets/files/Teaching_Computer_Architecture_by_Designing_and_Simulating_Processors.pdf">here</a>.
+You can access the paper <a href="https://peerj.com/articles/cs-1818/">here</a>.
