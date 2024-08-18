@@ -15,7 +15,7 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
     <tr>
         <td style="padding:2.5%;width:100%;vertical-align:middle;border:0;">
             <h2>2024</h2>
-            <HR">
+            <HR>
         </td>
     </tr>
 </table>
@@ -135,7 +135,7 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
             <img src="images/interstellar_inclusion.jpg" width="160" height="120" style="border-style:none;">
         </td>
         <td style="width:75%;vertical-align:middle;border:0;">
-            <a href="/talks/2019-09-13-italy.html">
+            <a href="/talks/2019-10-13-italy.html">
                 <span class="papertitle"><strong>Erasmus+ Yout Exchange Project: Interstellar Inlcusion</strong></span>
             </a>
             <br>
