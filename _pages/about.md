@@ -15,7 +15,7 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
     <tr>
         <td style="padding:2.5%;width:100%;vertical-align:middle;border:0;">
             <h2>2024</h2>
-            <HR>
+            <HR">
         </td>
     </tr>
 </table>
