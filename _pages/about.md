@@ -136,7 +136,7 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
         </td>
         <td style="width:75%;vertical-align:middle;border:0;">
             <a href="/talks/2019-10-13-italy.html">
-                <span class="papertitle"><strong>Erasmus+ Yout Exchange Project: Interstellar Inlcusion</strong></span>
+                <span class="papertitle"><strong>Erasmus+ Yout Exchange Project: Interstellar Inclusion</strong></span>
             </a>
             <br>
             <em>Perugia, Italy</em> - 2019
