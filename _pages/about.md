@@ -14,8 +14,8 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
 <table style="width:100%;border:0;border-spacing:0;border-collapse:collapse;margin-right:auto;margin-left:auto;">
     <tr>
         <td style="padding:2.5%;width:100%;vertical-align:middle;border:0;">
-            <h2>2024</h2>
-            <HR>
+            <h2 style="border-bottom:0px">2024</h2>
+            <HR style="border-style:inset; border-width:1px;">
         </td>
     </tr>
 </table>
@@ -97,8 +97,8 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
 <table style="width:100%;border:0;border-spacing:0;border-collapse:collapse;margin-right:auto;margin-left:auto;">
     <tr>
         <td style="padding:2.5%;width:100%;vertical-align:middle;border:0;">
-            <h2>2020</h2>
-            <HR>
+            <h2  style="border-bottom:0px">2020</h2>
+            <HR style="border-style:inset; border-width:1px;">
         </td>
     </tr>
 </table>
