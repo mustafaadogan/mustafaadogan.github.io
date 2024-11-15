@@ -35,6 +35,7 @@ I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent M
             <em>arXiv</em>, 2024
             <br>
             <a href="https://arxiv.org/abs/2407.12498">Paper</a>  
+            / <a href="https://github.com/mustafaadogan/Few-Shot-MMLLM-Analysis">Code</a>
             <p>
                 This study evaluates the performance of Multimodal Large Language Models (MLLMs) on the VALSE benchmark, highlighting the significant impact of few-shot In-Context Learning and Chain-of-Thought prompting on complex reasoning tasks, and underscores the influence of pretraining datasets in optimizing MLLMs for better grounding in visual contexts.
             </p>
