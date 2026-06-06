@@ -7,9 +7,64 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and a recent MSc graduate from [Hacettepe University’s Computer Engineering Department](https://cs.hacettepe.edu.tr/index.html), where I worked under the guidance of [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/) and [Aykut Erdem](https://aykuterdem.github.io/). My research centers on natural language processing, with an emphasis on vision-language tasks and complex NLP problems. I am also involved in creating benchmarks and analysis tools, and I have a strong interest in foundation models. Previously, I earned my BSc from [Konya Food and Agriculture University](https://international.gidatarim.edu.tr/), where I collaborated with [Kasim Oztoprak](https://www.linkedin.com/in/kasim-oztoprak-b714bb190/?originalSubdomain=tr) on sentiment analysis and computer architecture education.
+I am a Software Engineer at [Aselsan](https://www.aselsan.com/en) and an MSc graduate from [Hacettepe University’s Computer Engineering Department](https://cs.hacettepe.edu.tr/index.html), where I worked under the guidance of [Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/) and [Aykut Erdem](https://aykuterdem.github.io/). My research centers on natural language processing, with an emphasis on vision-language tasks and complex NLP problems. I am also involved in creating benchmarks and analysis tools, and I have a strong interest in foundation models. Previously, I earned my BSc from [Konya Food and Agriculture University](https://international.gidatarim.edu.tr/), where I collaborated with [Kasim Oztoprak](https://www.linkedin.com/in/kasim-oztoprak-b714bb190/?originalSubdomain=tr) on sentiment analysis and computer architecture education.
 
 ### **Publications**
+
+<table style="width:100%;border:0;border-spacing:0;border-collapse:collapse;margin-right:auto;margin-left:auto;">
+    <tr>
+        <td style="padding:2.5%;width:100%;vertical-align:middle;border:0;">
+            <h2 style="border-bottom:0px">2026</h2>
+            <HR style="border-style:inset; border-width:1px;">
+        </td>
+    </tr>
+</table>
+
+<table style="border:0;border-spacing:0;border-collapse:collapse;">
+    <tr>
+        <td style="padding:10px;width:25%;vertical-align:middle;border:0;">
+            <img src="images/figure-intro.jpg" alt="Examples from GlobalLies" width="160" height="120" style="border-style:none;">
+        </td>
+        <td style="width:75%;vertical-align:middle;border:0;">
+            <a href="https://arxiv.org/abs/2604.06552">
+                <span class="papertitle"><strong>To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs</strong></span>
+            </a>
+            <br>
+            Zohaib Khan<sup>*</sup>, <strong>Mustafa Dogan<sup>*</sup></strong>, Ifeoma Okoh, Pouya Sadeghi, Siddhartha Shrestha, Sergius Justus Nyah, Mahmoud O. Mokhiamar, Michael J. Ryan, Tarek Naous
+            <br>
+            <em>ACL Main</em>, 2026
+            <br>
+            <a href="https://arxiv.org/abs/2604.06552">Paper</a>  
+            / <a href="https://github.com/zohaib-khan5040/globallies">Dataset</a> 
+            <p>
+                This paper introduces GlobalLies, a multilingual benchmark for studying LLM-generated misinformation across 8 languages and 195 countries. We show that LLMs are more likely to generate misinformation in lower-resource languages and about lower-HDI countries, while existing safety and fact-checking mechanisms provide uneven protection across regions. The dataset is released to support research on reducing global misinformation risks.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table style="border:0;border-spacing:0;border-collapse:collapse;">
+    <tr>
+        <td style="padding:10px;width:25%;vertical-align:middle;border:0;">
+            <img src="images/FewMMBench_Figure3.jpg" alt="Examples from FewMMBench" width="160" height="120" style="border-style:none;">
+        </td>
+        <td style="width:75%;vertical-align:middle;border:0;">
+            <a href="https://arxiv.org/abs/2602.21854">
+                <span class="papertitle"><strong>FewMMBench: A Benchmark for Multimodal Few-Shot Learning</strong></span>
+            </a>
+            <br>
+            <strong>Mustafa Dogan</strong>, Ilker Kesen, Iacer Calixto, Aykut Erdem, Erkut Erdem
+            <br>
+            <em>arXiv</em>, 2026
+            <br>
+            <a href="https://arxiv.org/abs/2602.21854">Paper</a>  
+            / <a href="https://huggingface.co/datasets/mustafaa/FewMMBench">Dataset</a> 
+            <p>
+                This paper introduces FewMMBench, a benchmark for evaluating few-shot learning in MLLMs using in-context learning and chain-of-thought prompting. Evaluating 26 open-weight MLLMs across diverse multimodal reasoning tasks, the authors find that most instruction-tuned models gain little—or even lose performance—from additional examples or CoT reasoning. The benchmark provides a systematic framework for studying and improving few-shot capabilities in MLLMs.
+            </p>
+        </td>
+    </tr>
+</table>
 
 <table style="width:100%;border:0;border-spacing:0;border-collapse:collapse;margin-right:auto;margin-left:auto;">
     <tr>
